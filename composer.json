@@ -9,6 +9,7 @@
     "require": {
         "silex/silex": "v1.3.4",
         "twig/twig": "v1.22.2",
+        "doctrine/dbal": "~2.2",
         "monolog/monolog": "1.17.1"
     },
     "autoload": {
