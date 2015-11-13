@@ -21,5 +21,8 @@
         "psr-4": {
             "SilexSkel\\": "src/"
         }
+    },
+    "config": {
+        "bin-dir": "app/bin"
     }
 }

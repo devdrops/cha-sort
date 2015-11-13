@@ -3,4 +3,4 @@
 /vendor
 
 /app/logs/silex_app.log
-
+/app/bin
